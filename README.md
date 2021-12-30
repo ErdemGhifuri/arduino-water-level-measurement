@@ -10,7 +10,7 @@ this is an arduino Project to measure water level and send it to [https://iotghi
 
 ## Notes
 
-the sensor will measure the water level based on SONAR principle, then the value will be sent to **http://iotghifari.web.app/post/data?field=`field_name`&value=`field_value`** with `field_name` is type of the measured data and `field_value` is the data value
+the sensor will measure the water level based on SONAR principle, then the value will be sent to **http://iotghifari.web.app/post/data?field=field_name&value=field_value** with `field_name` is type of the measured data and `field_value` is the data value
 
 ## References
 
